@@ -47,11 +47,11 @@ This assignment focuses on advanced data manipulation, visualization, and explor
 
 By the end of this assignment, your repository should have this structure:
 
-your-repository/
-├── pset-03-data-wrangling.qmd    # Completed assignment file
-├── pset-03-data-wrangling.html   # Rendered HTML output
-├── README.md                     # This instruction file
-└── [any additional files]        # Generated during rendering
+**Root Directory:**
+
+- `pset-03-data-wrangling.qmd` - Main assignment file with all 18 problems
+- `pset-03-data-wrangling.html` - Rendered HTML output  
+- `README.md` - This instruction file
 
 ## Assignment Structure
 
