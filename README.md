@@ -110,7 +110,7 @@ Your submission is your final committed and pushed repository. Make sure to:
 
 ## Due Date
 
-**September 26, 2025, 11:59 PM**
+**September 28, 2025, 11:59 PM**
 
 ## Getting Help
 
