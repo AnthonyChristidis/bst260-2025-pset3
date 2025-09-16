@@ -9,11 +9,11 @@ This assignment focuses on advanced data manipulation, visualization, and explor
 1. **Accept the assignment** via the GitHub Classroom link
 2. **Clone this repository** to your local machine
 3. **Open the repository folder** in RStudio as a project
-4. **Complete all problems** in the `pset-03-data-wrangling.qmd` file
+4. **Complete all problems** in the `pset-03-tidyverse.qmd` file
 
 ## Assignment Files
 
-- `pset-03-data-wrangling.qmd` - Main assignment file with all 18 problems
+- `pset-03-tidyverse.qmd` - Main assignment file with all 18 problems
 - `README.md` - This instruction file
 
 ## Technical Requirements
@@ -49,13 +49,15 @@ By the end of this assignment, your repository should have this structure:
 
 **Root Directory:**
 
-- `pset-03-data-wrangling.qmd` - Main assignment file with all 18 problems
-- `pset-03-data-wrangling.html` - Rendered HTML output  
+- `pset-03-tidyverse.qmd` - Main assignment file with all 18 problems
+- `pset-03-tidyverse.html` - Rendered HTML output  
 - `README.md` - This instruction file
 
 ## Assignment Structure
 
-**18 Problems covering:**
+**Problems 1-15 are mandatory and graded. Problems 16-18 are optional for additional practice.**
+
+**Mandatory Problems (1-15):**
 
 - **Problems 1-2**: Basic NHANES data filtering and descriptive statistics
 - **Problems 3-5**: Grouped analysis and confidence intervals
@@ -63,6 +65,9 @@ By the end of this assignment, your repository should have this structure:
 - **Problems 9-10**: Data restructuring and sample size considerations
 - **Problems 11-13**: Stratified analysis and group comparisons
 - **Problems 14-15**: Additional confounders (BMI and smoking)
+
+**Optional Problems (16-18):**
+
 - **Problems 16-18**: Advanced visualization and comprehensive exploratory analysis
 
 ## Key Instructions
@@ -95,7 +100,7 @@ By the end of this assignment, your repository should have this structure:
 
 Your submission is your final committed and pushed repository. Make sure to:
 
-1. **Complete all 18 problems** in the assignment file
+1. **Complete problems 1-15 (mandatory)** in the assignment file; problems 16-18 are optional
 2. **Render your document to HTML** successfully
 3. **Include both .qmd and .html files** in your submission
 4. **Use proper formatting** with kable for all tables
